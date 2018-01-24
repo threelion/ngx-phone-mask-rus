@@ -1,0 +1,51 @@
+{
+  "author": {
+    "name": "Ledzz&Threelion"
+  },
+  "description": "Angular directive for autoformatting russian phone numbers.",
+  "devDependencies": {
+    "@angular/cli": "1.2.0",
+    "@angular/compiler-cli": ">=4.0.0",
+    "@types/node": "~6.0.60",
+    "codelyzer": "~3.0.1",
+    "ng-packagr": "^1.2.0",
+    "ts-node": "~3.0.4",
+    "tslint": "~5.3.2",
+    "typescript": "~2.3.3"
+  },
+  "es2015": "ngx-phone-mask/ngx-phone-mask.js",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular4",
+    "directive",
+    "mask",
+    "phone",
+    "number",
+    "ng-model",
+    "form-control",
+    "masking",
+    "international"
+  ],
+  "license": "ISC",
+  "main": "bundles/ngx-phone-mask.umd.js",
+  "module": "ngx-phone-mask/ngx-phone-mask.es5.js",
+  "name": "ngx-phone-mask-rus",
+  "peerDependencies": {
+    "@angular/common": ">=4.0.0",
+    "@angular/compiler": ">=4.0.0",
+    "@angular/core": ">=4.0.0",
+    "@angular/forms": ">=4.0.0",
+    "@angular/platform-browser": ">=4.0.0",
+    "@angular/platform-browser-dynamic": ">=4.0.0",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threelion/ngx-phone-mask-rus.git"
+  },
+  "typings": "ngx-phone-mask.d.ts",
+  "version": "1.0.0"
+}
